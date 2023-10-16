@@ -1,4 +1,4 @@
-# OpenTelementry.Demo
+# OpenTelemetry.Demo
 
 Live coding workshop with
 - [Github codespaces](https://github.com/codespaces) (requires subscription)
